@@ -5,6 +5,24 @@ sdfads sd
 时代峰峻速度快解放的方式登记
 我的测试
 我的测试
-我的测试我的测试我的测试我的测试我的测试我的测试我的测试
-
-rrr reter
+我的测试我的测试我的测试而威尔我的测试我的测试我的测试我的测试
+水电费水电费 
+说的是打 啊fun1(){
+add  fun1
+function  aaa(){
+//sdfasdfasdfadsf
+console.log("aaa");
+}
+add  fun2
+function  bbb(){
+//sdfasdfasdfadsf
+console.log("bbb");
+}
+add  fun3
+function  ccc(){
+//sdfasdfasdfadsf
+}
+add  fun4
+function  ddd(){
+ 
+}
