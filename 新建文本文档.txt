@@ -8,6 +8,7 @@ sdfads sd
 我的测试我的测试我的测试我的测试我的测试我的测试我的测试
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 说的是打 啊
 add  fun1
 function  aaa(){
@@ -26,6 +27,3 @@ function  ccc(){
 add  fun4
 function  ddd(){
 }
-=======
-说的是打 啊fun1(){
->>>>>>> parent of de345c5... asdasf
